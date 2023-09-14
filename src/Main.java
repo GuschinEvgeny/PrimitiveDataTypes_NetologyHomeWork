@@ -5,7 +5,7 @@ public class Main {
         //Scanner price = new Scanner(System.in);
         //System.out.println("В этой строке: ");
         //int ticket_price = price.nextInt();
-        int ticket_price = 17958;
+        int ticket_price = 170958;
         byte bonus_mile = 20;
         System.out.println("Стоимость вашего перелета " + ticket_price);
         System.out.println("Количество ваших бонусных миль за текущий перелет");
