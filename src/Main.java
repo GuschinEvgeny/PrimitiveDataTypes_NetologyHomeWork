@@ -5,10 +5,10 @@ public class Main {
         //Scanner price = new Scanner(System.in);
         //System.out.println("В этой строке: ");
         //int ticket_price = price.nextInt();
-        int ticket_price = 170958;
-        byte bonus_mile = 20;
-        System.out.println("Стоимость вашего перелета " + ticket_price);
+        int ticketPrice = 13676 ;
+        byte bonusMile = 20;
+        System.out.println("Стоимость вашего перелета " + ticketPrice);
         System.out.println("Количество ваших бонусных миль за текущий перелет");
-        System.out.println( "составляет " + ticket_price /  bonus_mile );
+        System.out.println( "составляет " + ticketPrice /  bonusMile );
     }
 }
